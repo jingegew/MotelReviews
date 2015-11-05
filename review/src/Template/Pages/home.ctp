@@ -156,20 +156,20 @@ $this->layout = false;
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                        <div class="row">
-                <div class="col-sm-6">
-                    <div class="team-member">
-                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Yes</h4>
+	                    <div class="row">
+		                <div class="col-sm-6">
+		                    <div class="team-member">
+		                        <img src="img/yes.jpg" class="img-responsive img-circle" alt="">
+		                        <h4>Yes</h4>
+		                    </div>
+		                </div>
+		                <div class="col-sm-6">
+		                    <div class="team-member">
+		                        <img src="img/team/no.jpg" class="img-responsive img-circle" alt="">
+		                        <h4>No</h4>
+		                    </div>
+		                </div>
                     </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>No</h4>
-                    </div>
-                </div>
-                        </div>
                 </div>
             </div>
         </div>
@@ -187,7 +187,7 @@ $this->layout = false;
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/bed.jpg" class="img-responsive img-circle" alt="">
                         <h4>Kay Garland</h4>
                         <p class="text-muted">Food</p>
                         <ul class="list-inline social-buttons">
