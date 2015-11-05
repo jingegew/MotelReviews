@@ -231,7 +231,7 @@ $this->layout = false;
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/FreeParking.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/FreeParking.png" class="img-responsive img-circle" alt="">
                         <h4>Free Parking</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -245,7 +245,7 @@ $this->layout = false;
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/WiFi.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/WiFi.png" class="img-responsive img-circle" alt="">
                         <h4>WiFi</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
