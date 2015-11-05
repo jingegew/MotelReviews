@@ -165,7 +165,7 @@ $this->layout = false;
 		                </div>
 		                <div class="col-sm-6">
 		                    <div class="team-member">
-		                        <img src="img/team/no.jpg" class="img-responsive img-circle" alt="">
+		                        <img src="img/no.jpg" class="img-responsive img-circle" alt="">
 		                        <h4>No</h4>
 		                    </div>
 		                </div>
@@ -188,8 +188,7 @@ $this->layout = false;
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/bed.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Food</p>
+                        <h4>Bed</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -202,22 +201,22 @@ $this->layout = false;
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Beds</h4>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/breakfast.jpg" class="img-responsive img-circle" alt="">
                         <h4>Food</h4>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/AC.jpg" class="img-responsive img-circle" alt="">
+                        <h4>AC</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -232,9 +231,8 @@ $this->layout = false;
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Wifi</p>
+                        <img src="img/FreeParking.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Free Parking</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -247,9 +245,8 @@ $this->layout = false;
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Carpets</p>
+                        <img src="img/WiFi.jpg" class="img-responsive img-circle" alt="">
+                        <h4>WiFi</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -262,9 +259,8 @@ $this->layout = false;
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">A/C</p>
+                        <img src="img/location.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Location</h4>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -278,7 +274,7 @@ $this->layout = false;
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">We dedeciate to provide excellent services with affordable prices, your review will help us to improve.</p>
                 </div>
             </div>
         </div>
